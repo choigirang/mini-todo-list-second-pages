@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c7bf1f7f.css",
+    "main.js": "/static/js/main.d85860d6.js",
+    "static/js/787.0281a662.chunk.js": "/static/js/787.0281a662.chunk.js",
+    "static/media/BinggraeSamanco-Bold.ttf": "/static/media/BinggraeSamanco-Bold.8ad04db5f1d170cbf33e.ttf",
+    "static/media/childfont.ttf": "/static/media/childfont.46547f067ff802380d40.ttf",
+    "index.html": "/index.html",
+    "main.c7bf1f7f.css.map": "/static/css/main.c7bf1f7f.css.map",
+    "main.d85860d6.js.map": "/static/js/main.d85860d6.js.map",
+    "787.0281a662.chunk.js.map": "/static/js/787.0281a662.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7bf1f7f.css",
+    "static/js/main.d85860d6.js"
+  ]
+}
